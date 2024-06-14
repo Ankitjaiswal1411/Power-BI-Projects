@@ -1,3 +1,3 @@
-# Spotify Music Platform Dashboard Analysis
+# Credit_Card_Financial_Dashboard
 
-This project provides a comprehensive analysis of Spotify's music platform data through an interactive dashboard using business intelligence tool called PowerBI. The analysis covers various aspects of the platform, such as user mode, song popularity, artist performance, and genre trends. The dashboard is built to help users understand the dynamics of the Spotify platform through visualizations and insightful metrics.
+Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effecively.
